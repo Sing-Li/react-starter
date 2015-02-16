@@ -1,0 +1,24 @@
+{
+  "name": "example2",
+  "version": "1.0.0",
+  "authors": [
+    "Sing Li <sli@makawave.com>"
+  ],
+  "description": "developerWorks React article example",
+  "main": "example2.html",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.12.2"
+  }
+}

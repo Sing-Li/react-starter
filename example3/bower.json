@@ -1,0 +1,27 @@
+{
+  "name": "example3",
+  "version": "1.0.0",
+  "authors": [
+    "Sing Li <sli@makawave.com>"
+  ],
+  "description": "developerWorks article example",
+  "main": "example3.html",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.4",
+    "react": "~0.12.2",
+    "underscore": "~1.7.0",
+    "react-bar-chart": "~0.0.3"
+  }
+}

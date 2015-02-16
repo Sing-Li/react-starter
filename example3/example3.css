@@ -1,0 +1,32 @@
+ul {
+  list-style: none;
+  margin:0;
+  padding:0
+}
+li {
+  padding: 10px;
+  background: lightgrey;
+}
+
+input[type="text"]:disabled {
+   background: lightgrey;
+}
+
+.containing{
+    display: -webkit-flex;
+    display: flex;
+    width: 100%;
+    height: 600px;
+}
+
+.left-side {
+	width: 300px;
+    -webkit-flex: none;
+    flex: none;
+}
+
+.right-side {
+    -webkit-flex: 1;
+    flex: 1;
+}
+
